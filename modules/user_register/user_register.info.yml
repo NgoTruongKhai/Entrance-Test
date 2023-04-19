@@ -1,0 +1,5 @@
+name: user_register
+type: module
+description: this is may module Register
+package: Custom
+core_version_requirement: ^9 || ^10
